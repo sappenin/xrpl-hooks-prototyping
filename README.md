@@ -8,6 +8,7 @@ This project is an exploration of [XRPL Hooks](https://xrpl-hooks.readme.io/).
 * [https://hooks.xrpl.org](https://hooks.xrpl.org/)
   * [Hooks Builder](https://hooks-builder.xrpl.org/develop)
 * [Compiling Hoooks](https://xrpl-hooks.readme.io/docs/compiling-hooks)
+  * [Hooks Compiler](https://github.com/XRPLF/xrpl-hooks-compiler)
 * [Compiling C to WASM](https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm)
 * [Hooks Cleaner](https://github.com/XRPLF/hook-cleaner-c)
 * WASMER
