@@ -1,0 +1,1 @@
+emcc -O0 -c  -sEXPORTED_FUNCTIONS=cbak,hook library.c -o library.wasm
