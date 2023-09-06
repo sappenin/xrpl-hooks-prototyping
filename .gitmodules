@@ -1,0 +1,6 @@
+[submodule "hook-cleaner-c"]
+	path = hook-cleaner-c
+	url = git@github.com:XRPLF/hook-cleaner-c.git
+[submodule "hook-macros"]
+	path = hook-macros
+	url = git@github.com:XRPLF/hook-macros.git
